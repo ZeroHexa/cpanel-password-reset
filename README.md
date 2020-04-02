@@ -1,2 +1,1 @@
-# massive cpanel password reset
-
+![cpanel reset tool](nakano.png "Miku Nakano")
