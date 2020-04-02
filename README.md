@@ -7,9 +7,9 @@ Requirements:<br>
 - python2.7<br>
 <br>
 Follow the steps below to set up gmail:<br>
-- <b>Enable Imap</b> ( https://www.lifewire.com/how-to-enable-gmail-via-imap-1170856 )<br>
-- <b>Enable Less Secure Apps</b> ( https://www.google.com/settings/u/1/security/lesssecureapps )<br>
-- <b>(OPTIONAL) Unlock Captcha</b> ( https://accounts.google.com/b/0/displayunlockcaptcha )<br>
+- Enable Imap ( https://www.lifewire.com/how-to-enable-gmail-via-imap-1170856 )<br>
+- Enable Less Secure Apps ( https://www.google.com/settings/u/1/security/lesssecureapps )<br>
+- (OPTIONAL) Unlock Captcha ( https://accounts.google.com/b/0/displayunlockcaptcha )<br>
 <br>
 How to use:<br>
 - upload file cp.php in shell backdoor<br>
